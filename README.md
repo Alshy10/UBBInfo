@@ -5,9 +5,7 @@
 > administration interact with timetables, grades, exams and evaluations — all in
 > one place.
 
-**🔗 Live demo:** https://itswaferz.github.io/UBBInfo/
 
-The interface is entirely in **Romanian**, the way the real UBB portals are.
 
 ---
 
